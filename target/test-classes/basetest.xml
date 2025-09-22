@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Login">
+    <classes>
+      <class name="TestngPractice.dim3"/>
+    </classes>
+  </test>
+  
+  <test name="Logout">
+    <classes>
+      <class name="TestngPractice.dim4"/>
+    </classes>
+  </test>
+</suite>
